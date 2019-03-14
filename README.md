@@ -13,5 +13,4 @@
 
 # Instructions
 
-You can check out the details of this project on the backup page.
 You can check out about the design & results of the experiment on this project in [here]().
