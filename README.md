@@ -7,7 +7,18 @@ Following is the process and results I have done.
 
 ![](https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif)
 
+## The environment
 
+For this project, we will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment.  
+
+In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
+
+The observation space consists of 33 variables corresponding to position, rotation, velocity, and angular velocities of the arm. Each action is a vector with four numbers, corresponding to torque applicable to two joints. Every entry in the action vector should be a number between -1 and 1.
+
+
+## Solving the environment
+
+**The task is episodic, and in order to solve the environment, your agent must get an average score of +30 over 100 consecutive episodes.**
 
 # Getting Started
 
@@ -40,7 +51,7 @@ The dependency can be met with the following command:
 $ pip install -r requirements.txt
 ```
 
-# Instructions
+# Solutions
 
-You can check out about the design & results of the experiment on this project in [Report.ipynb]().
+You can check out about the description of the implementation & results of the experiment on this project in [Continuous_Control.ipynb]() & [Report.pdf]().
 
