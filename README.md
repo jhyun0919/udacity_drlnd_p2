@@ -32,13 +32,13 @@ $ git clone https://github.com/jhyun0919/udacity_drlnd_p2.git
 
 ## Step 2: Download the Unity Environment
 
-For this project, you need to download the Unity Environment from one ot the links below.
+For this project, you need to download the Unity Environment from one ot the links below. (Option 1.)
 
-* [Linux]()
-* [Linux (headliss ver.)]()
-* [OSX]()
-* [Windows (32-bit)]()
-* [Windows (64-bit)]()
+* [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
+* [Linux (headliss ver.)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux_NoVis.zip)
+* [OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
+* [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip)
+* [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
 
 After download it, you need to place the file in the root directory of this project repository.
 
@@ -53,5 +53,5 @@ $ pip install -r requirements.txt
 
 # Solutions
 
-You can check out about the description of the implementation & results of the experiment on this project in [Continuous_Control.ipynb]() & [Report.pdf]().
+You can check out about the description of the implementation & results of the experiment on this project in [Continuous_Control.ipynb](https://github.com/jhyun0919/udacity_drlnd_p2/blob/master/Continuous_Control.ipynb) & [Report.ipynb](https://github.com/jhyun0919/udacity_drlnd_p2/blob/master/Report.ipynb).
 
